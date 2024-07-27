@@ -1,0 +1,4 @@
+transformers
+torch
+ollama==0.3.0
+langchain-community==0.2.10
